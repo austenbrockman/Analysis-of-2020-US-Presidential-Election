@@ -1,1 +1,3 @@
 This is a two part project: in the first part, I scraped data from NBC's website to generate data on the outcomes of the 2020 US Presidential Election by state. In the second part, I used the data from part one along side a second table with data on election turnouts by state, to see if there was a correlation between turnout and candidate performance.
+
+A month or so after completing the original project, I re-did the web scraping part. I decided to do this because I didn't fully understand how to utilize BeautifulSoup when I first completed the project. I've left the original up because it reflects problem solving capabilities. 
